@@ -2,4 +2,4 @@
 
 This is a database of Hemiptera-Phytoplasma-Plant (HPP) biological interactions worldwide. The database contains 1860 records of plant-phytoplasma pairwise associations, and 968 records of insect-phytoplasma pairwise associations. Priority is given to the first record of association between a 16Sr phytoplasma subgroup and a host (plant or insect vector) reported for each country.
 
-https://doi.org/10.5281/zenodo.2532497
+https://doi.org/10.5281/zenodo.2532738
